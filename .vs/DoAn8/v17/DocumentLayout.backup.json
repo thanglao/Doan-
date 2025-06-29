@@ -1,0 +1,107 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\THANG\\source\\repos\\DoAn8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\menuadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "menuadmin.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\menuadmin.cs",
+              "RelativeDocumentMoniker": "DoAn8\\menuadmin.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\menuadmin.cs*",
+              "RelativeToolTip": "DoAn8\\menuadmin.cs*",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:39:20.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "menuadmin.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\menuadmin.cs",
+              "RelativeDocumentMoniker": "DoAn8\\menuadmin.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\menuadmin.cs [Design]*",
+              "RelativeToolTip": "DoAn8\\menuadmin.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-27T03:26:54.682Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Program.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Program.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Program.cs",
+              "RelativeToolTip": "DoAn8\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T16:29:24.057Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form1.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form1.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form1.cs*",
+              "RelativeToolTip": "DoAn8\\Form1.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:11:15.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form1.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form1.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form1.cs [Design]*",
+              "RelativeToolTip": "DoAn8\\Form1.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-26T15:07:01.467Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
