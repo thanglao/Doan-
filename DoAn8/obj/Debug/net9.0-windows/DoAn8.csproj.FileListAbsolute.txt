@@ -21,3 +21,12 @@ C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\Guna.UI2.dll
 C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\System.Management.dll
 C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.csproj.Up2Date
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.ThongKe.resources
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.sourcelink.json
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.NhanVien.resources
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.GoiMonThanhToan.resources
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.dangnhap.resources
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn11.Forms.donhang.resources
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.KhoHang.resources
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn11.Forms.ThucDon.resources
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.TrangChu.resources
