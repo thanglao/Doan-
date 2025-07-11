@@ -28,5 +28,10 @@ namespace DoAn8
             btnThongKe.MouseLeave += (s, e) => btnThongKe.BackColor = Color.FromArgb(62, 39, 35);
 
         }
+
+        private void guna2CustomGradientPanel1_Paint(object sender, PaintEventArgs e)
+        {
+
+        }
     }
 }

@@ -4,13 +4,13 @@
     <Compile Update="Form\donhang.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form\ThucDon.cs">
-      <SubType>Form</SubType>
-    </Compile>
     <Compile Update="Form\dangnhap.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Update="Form\GoiMonThanhToan.cs">
+    <Compile Update="Form\banhang.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form\MEnu.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Update="Form\TrangChu.cs">

@@ -3,7 +3,6 @@ C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\DoAn8.deps.json
 C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\DoAn8.runtimeconfig.json
 C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\DoAn8.dll
 C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\DoAn8.pdb
-C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.Form1.resources
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.csproj.GenerateResource.cache
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.AssemblyInfoInputs.cache
@@ -15,18 +14,15 @@ C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.pdb
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.genruntimeconfig.cache
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\ref\DoAn8.dll
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.Properties.Resources.resources
-C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.menuAdmin.resources
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.csproj.AssemblyReference.cache
 C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\Guna.UI2.dll
 C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\System.Management.dll
 C:\Users\THANG\source\repos\DoAn8\DoAn8\bin\Debug\net9.0-windows\runtimes\win\lib\net7.0\System.Management.dll
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.csproj.Up2Date
-C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.ThongKe.resources
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.sourcelink.json
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.NhanVien.resources
-C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.GoiMonThanhToan.resources
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.dangnhap.resources
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn11.Forms.donhang.resources
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.KhoHang.resources
-C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn11.Forms.ThucDon.resources
 C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.TrangChu.resources
+C:\Users\THANG\source\repos\DoAn8\DoAn8\obj\Debug\net9.0-windows\DoAn8.ThanhToan.resources

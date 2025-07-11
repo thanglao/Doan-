@@ -3,40 +3,56 @@
   "WorkspaceRootPath": "C:\\Users\\THANG\\source\\repos\\DoAn8\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\khohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\khohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\goimonthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\goimonthanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\thanhtoan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\dangnhap.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\thucdon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\thucdon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\donhang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\trangchu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\trangchu.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\khohang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\properties\\resources.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\khohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\khohang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\khohang.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
@@ -45,10 +61,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\donhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\donhang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|C:\\Users\\THANG\\source\\repos\\DoAn8\\doan8\\form\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|solutionrelative:doan8\\form\\nhanvien.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{47D98669-19B7-46F6-9506-DA0E4A465B4A}|DoAn8\\DoAn8.csproj|c:\\users\\thang\\source\\repos\\doan8\\doan8\\form\\dangnhap.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
@@ -76,7 +88,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
@@ -84,19 +96,103 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ThanhToan.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form\\ThanhToan.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\ThanhToan.cs*",
+              "RelativeToolTip": "DoAn8\\Form\\ThanhToan.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAA1wBQAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:25:14.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThanhToan.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\ThanhToan.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form\\ThanhToan.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\ThanhToan.cs [Design]*",
+              "RelativeToolTip": "DoAn8\\Form\\ThanhToan.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-11T03:21:58.349Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "TrangChu.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form\\TrangChu.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.cs [Design]*",
+              "RelativeToolTip": "DoAn8\\Form\\TrangChu.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:11:52.606Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "dangnhap.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\dangnhap.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form\\dangnhap.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\dangnhap.cs [Design]",
+              "RelativeToolTip": "DoAn8\\Form\\dangnhap.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:10:43.466Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "donhang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\donhang.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form\\donhang.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\donhang.cs [Design]",
+              "RelativeToolTip": "DoAn8\\Form\\donhang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:13:37.588Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "NhanVien.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\NhanVien.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form\\NhanVien.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\NhanVien.cs [Design]",
+              "RelativeToolTip": "DoAn8\\Form\\NhanVien.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:11:40.2Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Program.cs",
               "RelativeDocumentMoniker": "DoAn8\\Program.cs",
               "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Program.cs",
               "RelativeToolTip": "DoAn8\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-10T15:41:26.896Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 9,
+              "Title": "KhoHang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\KhoHang.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form\\KhoHang.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\KhoHang.cs [Design]",
+              "RelativeToolTip": "DoAn8\\Form\\KhoHang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-10T15:23:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
               "Title": "KhoHang.Designer.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\KhoHang.Designer.cs",
               "RelativeDocumentMoniker": "DoAn8\\Form\\KhoHang.Designer.cs",
@@ -108,86 +204,56 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "KhoHang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\KhoHang.cs",
-              "RelativeDocumentMoniker": "DoAn8\\Form\\KhoHang.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\KhoHang.cs [Design]",
-              "RelativeToolTip": "DoAn8\\Form\\KhoHang.cs [Design]",
+              "DocumentIndex": 11,
+              "Title": "Resources.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Properties\\Resources.Designer.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Properties\\Resources.Designer.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Properties\\Resources.Designer.cs",
+              "RelativeToolTip": "DoAn8\\Properties\\Resources.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:23:26.149Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "TrangChu.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.cs",
-              "RelativeDocumentMoniker": "DoAn8\\Form\\TrangChu.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.cs [Design]",
-              "RelativeToolTip": "DoAn8\\Form\\TrangChu.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:11:52.606Z",
-              "EditorCaption": " [Design]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "dangnhap.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\dangnhap.cs",
-              "RelativeDocumentMoniker": "DoAn8\\Form\\dangnhap.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\dangnhap.cs [Design]",
-              "RelativeToolTip": "DoAn8\\Form\\dangnhap.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:10:43.466Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "donhang.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\donhang.cs",
-              "RelativeDocumentMoniker": "DoAn8\\Form\\donhang.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\donhang.cs [Design]",
-              "RelativeToolTip": "DoAn8\\Form\\donhang.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:13:37.588Z"
+              "WhenOpened": "2025-07-10T15:45:12.62Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "GoiMonThanhToan.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\GoiMonThanhToan.cs",
-              "RelativeDocumentMoniker": "DoAn8\\Form\\GoiMonThanhToan.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\GoiMonThanhToan.cs [Design]",
-              "RelativeToolTip": "DoAn8\\Form\\GoiMonThanhToan.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:10:59.189Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "TrangChu.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.cs",
               "RelativeDocumentMoniker": "DoAn8\\Form\\TrangChu.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.cs",
-              "RelativeToolTip": "DoAn8\\Form\\TrangChu.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAuwCAAAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.cs*",
+              "RelativeToolTip": "DoAn8\\Form\\TrangChu.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAQwAwAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:22:29.043Z"
+              "WhenOpened": "2025-07-10T15:22:29.043Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "ThucDon.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\ThucDon.cs",
-              "RelativeDocumentMoniker": "DoAn8\\Form\\ThucDon.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\ThucDon.cs [Design]",
-              "RelativeToolTip": "DoAn8\\Form\\ThucDon.cs [Design]",
+              "Title": "TrangChu.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.Designer.cs",
+              "RelativeDocumentMoniker": "DoAn8\\Form\\TrangChu.Designer.cs",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\TrangChu.Designer.cs*",
+              "RelativeToolTip": "DoAn8\\Form\\TrangChu.Designer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:13:59.136Z"
+              "WhenOpened": "2025-07-11T02:55:11.645Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "DoAn8\\Properties\\Resources.resx",
+              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Properties\\Resources.resx",
+              "RelativeToolTip": "DoAn8\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-07-10T15:45:16.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "KhoHang.resx",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\KhoHang.resx",
               "RelativeDocumentMoniker": "DoAn8\\Form\\KhoHang.resx",
@@ -198,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "donhang.Designer.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\donhang.Designer.cs",
               "RelativeDocumentMoniker": "DoAn8\\Form\\donhang.Designer.cs",
@@ -206,44 +272,36 @@
               "RelativeToolTip": "DoAn8\\Form\\donhang.Designer.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:22:11.073Z"
+              "WhenOpened": "2025-07-10T15:22:11.073Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "NhanVien.cs [Design]",
-              "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\NhanVien.cs",
-              "RelativeDocumentMoniker": "DoAn8\\Form\\NhanVien.cs",
-              "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\NhanVien.cs [Design]",
-              "RelativeToolTip": "DoAn8\\Form\\NhanVien.cs [Design]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:11:40.2Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "dangnhap.resx",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\dangnhap.resx",
               "RelativeDocumentMoniker": "DoAn8\\Form\\dangnhap.resx",
               "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\dangnhap.resx",
               "RelativeToolTip": "DoAn8\\Form\\dangnhap.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-10T15:17:56.572Z"
+              "WhenOpened": "2025-07-10T15:17:56.572Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "NhanVien.resx",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\NhanVien.resx",
               "RelativeDocumentMoniker": "DoAn8\\Form\\NhanVien.resx",
               "ToolTip": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\NhanVien.resx",
               "RelativeToolTip": "DoAn8\\Form\\NhanVien.resx",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
-              "WhenOpened": "2025-07-10T15:15:51.753Z"
+              "WhenOpened": "2025-07-10T15:15:51.753Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "NhanVien.Designer.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\source\\repos\\DoAn8\\DoAn8\\Form\\NhanVien.Designer.cs",
               "RelativeDocumentMoniker": "DoAn8\\Form\\NhanVien.Designer.cs",
@@ -251,11 +309,12 @@
               "RelativeToolTip": "DoAn8\\Form\\NhanVien.Designer.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-10T15:15:51.164Z"
+              "WhenOpened": "2025-07-10T15:15:51.164Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "donhang.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\AppData\\Local\\Temp\\Zalo Temp\\141568\\donhang.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\141568\\donhang.cs",
@@ -267,7 +326,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "donhang.cs",
               "DocumentMoniker": "C:\\Users\\THANG\\AppData\\Local\\Temp\\Zalo Temp\\141368\\donhang.cs",
               "RelativeDocumentMoniker": "..\\..\\..\\AppData\\Local\\Temp\\Zalo Temp\\141368\\donhang.cs",
