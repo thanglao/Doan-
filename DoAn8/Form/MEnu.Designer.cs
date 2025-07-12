@@ -499,6 +499,7 @@
             Name = "MEnu";
             StartPosition = FormStartPosition.CenterScreen;
             Text = "🍽️ Quản Lý Thực Đơn";
+            Load += MEnu_Load;
             panelHeaderMenu.ResumeLayout(false);
             panelHeaderMenu.PerformLayout();
             panelCategoryTabs.ResumeLayout(false);

@@ -8,7 +8,7 @@ using System;
 
 namespace DoAn11
 {
-    public partial class Form1 : Form
+    public partial class banhang : Form
     {
         private decimal doanhThuHomNay = 0;
         private System.Threading.Timer timerCapNhatDoanhThu;
@@ -26,7 +26,7 @@ namespace DoAn11
         // Dictionary để lưu trạng thái bàn
         private Dictionary<int, bool> trangThaiBan = new Dictionary<int, bool>();
 
-        public Form1()
+        public banhang()
         {
             InitializeComponent();
             KhoiTaoTrangThaiBan();

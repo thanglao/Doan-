@@ -1,6 +1,6 @@
 ﻿namespace DoAn11
 {
-    partial class Form1
+    partial class banhang
     {
         /// <summary>
         ///  Required designer variable.
@@ -30,26 +30,10 @@
         {
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges1 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges2 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges3 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges4 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges5 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges6 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges7 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges8 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges9 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges10 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges11 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
-            Guna.UI2.WinForms.Suite.CustomizableEdges customizableEdges12 = new Guna.UI2.WinForms.Suite.CustomizableEdges();
             openFileDialog1 = new OpenFileDialog();
             panelHeader = new Guna.UI2.WinForms.Guna2CustomGradientPanel();
             panelHeaderDH = new Panel();
             label10 = new Label();
-            panelNavigation = new Panel();
-            btnbaocao = new Guna.UI2.WinForms.Guna2Button();
-            btnkhohang = new Guna.UI2.WinForms.Guna2Button();
-            btnthucdon = new Guna.UI2.WinForms.Guna2Button();
-            btnnhanvien = new Guna.UI2.WinForms.Guna2Button();
-            btnnha = new Guna.UI2.WinForms.Guna2Button();
             panelMain = new Panel();
             panel4 = new Panel();
             btngiam = new Button();
@@ -83,19 +67,13 @@
             panel1 = new Panel();
             label4 = new Label();
             label5 = new Label();
-            cardDoanhThu = new Panel();
-            lbldoanhthu = new Label();
-            label3 = new Label();
-            label2 = new Label();
             panelHeader.SuspendLayout();
             panelHeaderDH.SuspendLayout();
-            panelNavigation.SuspendLayout();
             panelMain.SuspendLayout();
             panel4.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dataGridViewHoaDon).BeginInit();
             panel2.SuspendLayout();
             panel1.SuspendLayout();
-            cardDoanhThu.SuspendLayout();
             SuspendLayout();
             // 
             // openFileDialog1
@@ -111,7 +89,7 @@
             panelHeader.Location = new Point(0, 0);
             panelHeader.Name = "panelHeader";
             panelHeader.ShadowDecoration.CustomizableEdges = customizableEdges2;
-            panelHeader.Size = new Size(1555, 94);
+            panelHeader.Size = new Size(1316, 94);
             panelHeader.TabIndex = 0;
             // 
             // panelHeaderDH
@@ -121,7 +99,7 @@
             panelHeaderDH.Dock = DockStyle.Top;
             panelHeaderDH.Location = new Point(0, 0);
             panelHeaderDH.Name = "panelHeaderDH";
-            panelHeaderDH.Size = new Size(1555, 95);
+            panelHeaderDH.Size = new Size(1316, 95);
             panelHeaderDH.TabIndex = 2;
             panelHeaderDH.Paint += panelHeaderDH_Paint;
             // 
@@ -136,122 +114,17 @@
             label10.TabIndex = 0;
             label10.Text = "☕ QUẢN LÝ QUÁN CÀ PHÊ\r\n\r\n";
             // 
-            // panelNavigation
-            // 
-            panelNavigation.BackColor = Color.NavajoWhite;
-            panelNavigation.Controls.Add(btnbaocao);
-            panelNavigation.Controls.Add(btnkhohang);
-            panelNavigation.Controls.Add(btnthucdon);
-            panelNavigation.Controls.Add(btnnhanvien);
-            panelNavigation.Controls.Add(btnnha);
-            panelNavigation.Dock = DockStyle.Left;
-            panelNavigation.Location = new Point(0, 94);
-            panelNavigation.MaximumSize = new Size(250, 0);
-            panelNavigation.Name = "panelNavigation";
-            panelNavigation.Size = new Size(250, 887);
-            panelNavigation.TabIndex = 1;
-            panelNavigation.Paint += panelNavigation_Paint;
-            // 
-            // btnbaocao
-            // 
-            btnbaocao.BackColor = Color.Moccasin;
-            btnbaocao.CustomizableEdges = customizableEdges3;
-            btnbaocao.DisabledState.BorderColor = Color.DarkGray;
-            btnbaocao.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnbaocao.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnbaocao.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnbaocao.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnbaocao.ForeColor = Color.White;
-            btnbaocao.Location = new Point(10, 345);
-            btnbaocao.Name = "btnbaocao";
-            btnbaocao.ShadowDecoration.CustomizableEdges = customizableEdges4;
-            btnbaocao.Size = new Size(230, 55);
-            btnbaocao.TabIndex = 4;
-            btnbaocao.Text = "📊 Báo Cáo";
-            // 
-            // btnkhohang
-            // 
-            btnkhohang.BackColor = Color.Moccasin;
-            btnkhohang.CustomizableEdges = customizableEdges5;
-            btnkhohang.DisabledState.BorderColor = Color.DarkGray;
-            btnkhohang.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnkhohang.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnkhohang.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnkhohang.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnkhohang.ForeColor = Color.White;
-            btnkhohang.Location = new Point(10, 280);
-            btnkhohang.Name = "btnkhohang";
-            btnkhohang.ShadowDecoration.CustomizableEdges = customizableEdges6;
-            btnkhohang.Size = new Size(230, 55);
-            btnkhohang.TabIndex = 3;
-            btnkhohang.Text = "📦 Kho Hàng";
-            // 
-            // btnthucdon
-            // 
-            btnthucdon.BackColor = Color.Moccasin;
-            btnthucdon.CustomizableEdges = customizableEdges7;
-            btnthucdon.DisabledState.BorderColor = Color.DarkGray;
-            btnthucdon.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnthucdon.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnthucdon.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnthucdon.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnthucdon.ForeColor = Color.White;
-            btnthucdon.Location = new Point(10, 215);
-            btnthucdon.Name = "btnthucdon";
-            btnthucdon.ShadowDecoration.CustomizableEdges = customizableEdges8;
-            btnthucdon.Size = new Size(230, 55);
-            btnthucdon.TabIndex = 2;
-            btnthucdon.Text = "🍽️ Thực Đơn";
-            btnthucdon.Click += btnthucdon_Click;
-            // 
-            // btnnhanvien
-            // 
-            btnnhanvien.BackColor = Color.Moccasin;
-            btnnhanvien.CustomizableEdges = customizableEdges9;
-            btnnhanvien.DisabledState.BorderColor = Color.DarkGray;
-            btnnhanvien.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnnhanvien.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnnhanvien.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnnhanvien.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnnhanvien.ForeColor = Color.White;
-            btnnhanvien.Location = new Point(10, 85);
-            btnnhanvien.Name = "btnnhanvien";
-            btnnhanvien.ShadowDecoration.CustomizableEdges = customizableEdges10;
-            btnnhanvien.Size = new Size(230, 55);
-            btnnhanvien.TabIndex = 1;
-            btnnhanvien.Text = "👥 Nhân Viên";
-            btnnhanvien.Click += btnnhanvien_Click;
-            // 
-            // btnnha
-            // 
-            btnnha.BackColor = Color.Moccasin;
-            btnnha.CustomizableEdges = customizableEdges11;
-            btnnha.DisabledState.BorderColor = Color.DarkGray;
-            btnnha.DisabledState.CustomBorderColor = Color.DarkGray;
-            btnnha.DisabledState.FillColor = Color.FromArgb(169, 169, 169);
-            btnnha.DisabledState.ForeColor = Color.FromArgb(141, 141, 141);
-            btnnha.Font = new Font("Segoe UI", 12F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            btnnha.ForeColor = Color.White;
-            btnnha.Location = new Point(10, 20);
-            btnnha.Name = "btnnha";
-            btnnha.ShadowDecoration.CustomizableEdges = customizableEdges12;
-            btnnha.Size = new Size(230, 55);
-            btnnha.TabIndex = 0;
-            btnnha.Text = "🏠 Dashboard";
-            btnnha.Click += guna2Button1_Click;
-            // 
             // panelMain
             // 
             panelMain.BackColor = Color.Snow;
             panelMain.Controls.Add(panel4);
             panelMain.Controls.Add(panel2);
             panelMain.Controls.Add(panel1);
-            panelMain.Controls.Add(cardDoanhThu);
             panelMain.Dock = DockStyle.Fill;
-            panelMain.Location = new Point(250, 94);
+            panelMain.Location = new Point(0, 94);
             panelMain.Name = "panelMain";
             panelMain.Padding = new Padding(20);
-            panelMain.Size = new Size(1305, 887);
+            panelMain.Size = new Size(1316, 781);
             panelMain.TabIndex = 2;
             panelMain.Paint += panelMain_Paint;
             // 
@@ -600,7 +473,7 @@
             panel1.BackColor = Color.White;
             panel1.Controls.Add(label4);
             panel1.Controls.Add(label5);
-            panel1.Location = new Point(330, 30);
+            panel1.Location = new Point(164, 30);
             panel1.Name = "panel1";
             panel1.Size = new Size(280, 120);
             panel1.TabIndex = 2;
@@ -625,62 +498,22 @@
             label5.TabIndex = 0;
             label5.Text = "📋";
             // 
-            // cardDoanhThu
-            // 
-            cardDoanhThu.BackColor = Color.White;
-            cardDoanhThu.Controls.Add(lbldoanhthu);
-            cardDoanhThu.Controls.Add(label3);
-            cardDoanhThu.Controls.Add(label2);
-            cardDoanhThu.Location = new Point(30, 30);
-            cardDoanhThu.Name = "cardDoanhThu";
-            cardDoanhThu.Size = new Size(280, 120);
-            cardDoanhThu.TabIndex = 0;
-            // 
-            // lbldoanhthu
-            // 
-            lbldoanhthu.Location = new Point(74, 55);
-            lbldoanhthu.Name = "lbldoanhthu";
-            lbldoanhthu.Size = new Size(203, 55);
-            lbldoanhthu.TabIndex = 2;
-            lbldoanhthu.Click += lbldoanhthu_Click;
-            // 
-            // label3
-            // 
-            label3.AutoSize = true;
-            label3.ForeColor = SystemColors.ActiveCaptionText;
-            label3.Location = new Point(80, 20);
-            label3.Name = "label3";
-            label3.Size = new Size(172, 23);
-            label3.TabIndex = 1;
-            label3.Text = "Doanh Thu Hôm Nay";
-            // 
-            // label2
-            // 
-            label2.Font = new Font("Segoe UI", 28.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            label2.Location = new Point(3, 0);
-            label2.Name = "label2";
-            label2.Size = new Size(81, 69);
-            label2.TabIndex = 0;
-            label2.Text = "💰";
-            // 
-            // Form1
+            // banhang
             // 
             AutoScaleDimensions = new SizeF(9F, 23F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.SandyBrown;
-            ClientSize = new Size(1555, 981);
+            ClientSize = new Size(1316, 875);
             Controls.Add(panelMain);
-            Controls.Add(panelNavigation);
             Controls.Add(panelHeader);
             Font = new Font("Segoe UI", 10.2F, FontStyle.Regular, GraphicsUnit.Point, 0);
-            Name = "Form1";
+            Name = "banhang";
             StartPosition = FormStartPosition.CenterScreen;
             Text = " ☕ Quản Lý Quán Cà Phê - Coffee Shop Management";
             Load += Form1_Load;
             panelHeader.ResumeLayout(false);
             panelHeaderDH.ResumeLayout(false);
             panelHeaderDH.PerformLayout();
-            panelNavigation.ResumeLayout(false);
             panelMain.ResumeLayout(false);
             panel4.ResumeLayout(false);
             panel4.PerformLayout();
@@ -688,27 +521,16 @@
             panel2.ResumeLayout(false);
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
-            cardDoanhThu.ResumeLayout(false);
-            cardDoanhThu.PerformLayout();
             ResumeLayout(false);
         }
 
         #endregion
         private OpenFileDialog openFileDialog1;
         private Guna.UI2.WinForms.Guna2CustomGradientPanel panelHeader;
-        private Panel panelNavigation;
-        private Guna.UI2.WinForms.Guna2Button btnnha;
-        private Guna.UI2.WinForms.Guna2Button btnnhanvien;
-        private Guna.UI2.WinForms.Guna2Button btnbaocao;
-        private Guna.UI2.WinForms.Guna2Button btnkhohang;
-        private Guna.UI2.WinForms.Guna2Button btnthucdon;
         private Panel panelMain;
-        private Panel cardDoanhThu;
-        private Label label2;
         private Panel panel1;
         private Label label4;
         private Label label5;
-        private Label label3;
         private Panel panelHeaderDH;
         private Label label10;
         private Panel panel2;
@@ -736,7 +558,6 @@
         private Button btnthanhtoan;
         private TextBox txttongtien;
         private TextBox txtchietkhau;
-        private Label lbldoanhthu;
         private Button btnthem;
         private Button btnxoa;
         private Button btngiam;

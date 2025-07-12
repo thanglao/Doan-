@@ -367,7 +367,7 @@ namespace DoAn11.Forms
             txtTenMon.Clear();
             cmbDanhMuc.SelectedIndex = 0;
             txtGia.Clear();
-            txtImagePath.Clear(); 
+            txtImagePath.Clear();
             chkTrangThai.Checked = true;
             picMonAn.Image = null;
         }
@@ -384,7 +384,7 @@ namespace DoAn11.Forms
                     if (result == DialogResult.Yes)
                     {
                         MenuDAO.Delete(id);
-                        LoadMenuToGrid(); 
+                        LoadMenuToGrid();
                         LoadMenu();
                         ClearForm();
                         MessageBox.Show("Xóa thành công!", "Thông báo", MessageBoxButtons.OK, MessageBoxIcon.Information);
@@ -523,7 +523,7 @@ namespace DoAn11.Forms
                 {
                     string filePath = ofd.FileName;
 
-                   
+
                     using (var originalImage = Image.FromFile(filePath))
                     {
                         picMonAn.Image = new Bitmap(originalImage);
@@ -545,7 +545,7 @@ namespace DoAn11.Forms
 
         private void dataGridView1_CellContentClick(object sender, DataGridViewCellEventArgs e)
         {
-            
+
             if (e.RowIndex >= 0)
             {
                 try
@@ -568,7 +568,7 @@ namespace DoAn11.Forms
                     }
 
                     int itemId = int.Parse(txtMaMon.Text);
-                    var menuItem = MenuDAO.GetMenuItemById(itemId); 
+                    var menuItem = MenuDAO.GetMenuItemById(itemId);
                     if (menuItem != null)
                     {
                         txtImagePath.Text = menuItem.ImagePath ?? "";
@@ -736,6 +736,11 @@ namespace DoAn11.Forms
         }
 
         private void btnsua_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void MEnu_Load(object sender, EventArgs e)
         {
 
         }

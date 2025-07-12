@@ -31,32 +31,32 @@
             panelHeaderDH = new Panel();
             label1 = new Label();
             panel2 = new Panel();
-            button5 = new Button();
-            button4 = new Button();
-            button1 = new Button();
             button3 = new Button();
+            button1 = new Button();
+            button4 = new Button();
+            button5 = new Button();
             button2 = new Button();
             tableLayoutPanel1 = new TableLayoutPanel();
             panelDanhSachDH = new Panel();
-            label3 = new Label();
+            dgvChiTietMon = new DataGridView();
+            panel3 = new Panel();
+            label2 = new Label();
             panel1 = new Panel();
             dgvDanhSachDH = new DataGridView();
-            Column5 = new DataGridViewTextBoxColumn();
-            Column4 = new DataGridViewTextBoxColumn();
-            Column3 = new DataGridViewTextBoxColumn();
-            Column2 = new DataGridViewTextBoxColumn();
             Column1 = new DataGridViewTextBoxColumn();
-            label2 = new Label();
-            panel3 = new Panel();
-            dgvChiTietMon = new DataGridView();
+            Column2 = new DataGridViewTextBoxColumn();
+            Column3 = new DataGridViewTextBoxColumn();
+            Column4 = new DataGridViewTextBoxColumn();
+            Column5 = new DataGridViewTextBoxColumn();
+            label3 = new Label();
             panelHeaderDH.SuspendLayout();
             panel2.SuspendLayout();
             tableLayoutPanel1.SuspendLayout();
             panelDanhSachDH.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)dgvChiTietMon).BeginInit();
+            panel3.SuspendLayout();
             panel1.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)dgvDanhSachDH).BeginInit();
-            panel3.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)dgvChiTietMon).BeginInit();
             SuspendLayout();
             // 
             // panelHeaderDH
@@ -66,7 +66,7 @@
             panelHeaderDH.Dock = DockStyle.Top;
             panelHeaderDH.Location = new Point(0, 0);
             panelHeaderDH.Name = "panelHeaderDH";
-            panelHeaderDH.Size = new Size(1588, 1000);
+            panelHeaderDH.Size = new Size(1146, 1000);
             panelHeaderDH.TabIndex = 0;
             // 
             // label1
@@ -92,31 +92,18 @@
             panel2.Size = new Size(1588, 82);
             panel2.TabIndex = 1;
             // 
-            // button5
+            // button3
             // 
-            button5.BackColor = Color.Red;
-            button5.FlatStyle = FlatStyle.Flat;
-            button5.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button5.ForeColor = Color.White;
-            button5.Location = new Point(650, 12);
-            button5.Name = "button5";
-            button5.Size = new Size(138, 40);
-            button5.TabIndex = 5;
-            button5.Text = "Đã hủy";
-            button5.UseVisualStyleBackColor = false;
-            // 
-            // button4
-            // 
-            button4.BackColor = Color.FromArgb(76, 175, 80);
-            button4.FlatStyle = FlatStyle.Flat;
-            button4.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button4.ForeColor = Color.White;
-            button4.Location = new Point(490, 12);
-            button4.Name = "button4";
-            button4.Size = new Size(138, 40);
-            button4.TabIndex = 4;
-            button4.Text = "Hoàn thành";
-            button4.UseVisualStyleBackColor = false;
+            button3.BackColor = Color.FromArgb(33, 150, 243);
+            button3.FlatStyle = FlatStyle.Flat;
+            button3.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button3.ForeColor = Color.White;
+            button3.Location = new Point(329, 12);
+            button3.Name = "button3";
+            button3.Size = new Size(138, 40);
+            button3.TabIndex = 3;
+            button3.Text = "Đang chuẩn bị";
+            button3.UseVisualStyleBackColor = false;
             // 
             // button1
             // 
@@ -131,18 +118,31 @@
             button1.Text = "Tất cả";
             button1.UseVisualStyleBackColor = false;
             // 
-            // button3
+            // button4
             // 
-            button3.BackColor = Color.FromArgb(33, 150, 243);
-            button3.FlatStyle = FlatStyle.Flat;
-            button3.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            button3.ForeColor = Color.White;
-            button3.Location = new Point(329, 12);
-            button3.Name = "button3";
-            button3.Size = new Size(138, 40);
-            button3.TabIndex = 3;
-            button3.Text = "Đang chuẩn bị";
-            button3.UseVisualStyleBackColor = false;
+            button4.BackColor = Color.FromArgb(76, 175, 80);
+            button4.FlatStyle = FlatStyle.Flat;
+            button4.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button4.ForeColor = Color.White;
+            button4.Location = new Point(490, 12);
+            button4.Name = "button4";
+            button4.Size = new Size(138, 40);
+            button4.TabIndex = 4;
+            button4.Text = "Hoàn thành";
+            button4.UseVisualStyleBackColor = false;
+            // 
+            // button5
+            // 
+            button5.BackColor = Color.Red;
+            button5.FlatStyle = FlatStyle.Flat;
+            button5.Font = new Font("Segoe UI", 10.2F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            button5.ForeColor = Color.White;
+            button5.Location = new Point(650, 12);
+            button5.Name = "button5";
+            button5.Size = new Size(138, 40);
+            button5.TabIndex = 5;
+            button5.Text = "Đã hủy";
+            button5.UseVisualStyleBackColor = false;
             // 
             // button2
             // 
@@ -185,15 +185,34 @@
             panelDanhSachDH.Size = new Size(557, 756);
             panelDanhSachDH.TabIndex = 0;
             // 
-            // label3
+            // dgvChiTietMon
             // 
-            label3.AutoSize = true;
-            label3.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label3.Location = new Point(122, 16);
-            label3.Name = "label3";
-            label3.Size = new Size(282, 28);
-            label3.TabIndex = 2;
-            label3.Text = "📋 DANH SÁCH ĐƠN HÀNG";
+            dgvChiTietMon.BackgroundColor = Color.White;
+            dgvChiTietMon.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            dgvChiTietMon.Location = new Point(3, 57);
+            dgvChiTietMon.Name = "dgvChiTietMon";
+            dgvChiTietMon.RowHeadersWidth = 51;
+            dgvChiTietMon.Size = new Size(551, 238);
+            dgvChiTietMon.TabIndex = 4;
+            // 
+            // panel3
+            // 
+            panel3.BackColor = Color.FromArgb(248, 246, 240);
+            panel3.Controls.Add(label2);
+            panel3.Location = new Point(0, 0);
+            panel3.Name = "panel3";
+            panel3.Size = new Size(557, 59);
+            panel3.TabIndex = 3;
+            // 
+            // label2
+            // 
+            label2.AutoSize = true;
+            label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label2.Location = new Point(143, 16);
+            label2.Name = "label2";
+            label2.Size = new Size(244, 28);
+            label2.TabIndex = 2;
+            label2.Text = "📄 CHI TIẾT ĐƠN HÀNG";
             // 
             // panel1
             // 
@@ -220,26 +239,12 @@
             dgvDanhSachDH.Size = new Size(557, 714);
             dgvDanhSachDH.TabIndex = 3;
             // 
-            // Column5
+            // Column1
             // 
-            Column5.HeaderText = "Trạng thái";
-            Column5.MinimumWidth = 6;
-            Column5.Name = "Column5";
-            Column5.Width = 110;
-            // 
-            // Column4
-            // 
-            Column4.HeaderText = "Tổng tiền";
-            Column4.MinimumWidth = 6;
-            Column4.Name = "Column4";
-            Column4.Width = 110;
-            // 
-            // Column3
-            // 
-            Column3.HeaderText = "Khách hàng";
-            Column3.MinimumWidth = 6;
-            Column3.Name = "Column3";
-            Column3.Width = 150;
+            Column1.HeaderText = "Mã ĐH";
+            Column1.MinimumWidth = 6;
+            Column1.Name = "Column1";
+            Column1.Width = 85;
             // 
             // Column2
             // 
@@ -248,48 +253,43 @@
             Column2.Name = "Column2";
             Column2.Width = 120;
             // 
-            // Column1
+            // Column3
             // 
-            Column1.HeaderText = "Mã ĐH";
-            Column1.MinimumWidth = 6;
-            Column1.Name = "Column1";
-            Column1.Width = 85;
+            Column3.HeaderText = "Khách hàng";
+            Column3.MinimumWidth = 6;
+            Column3.Name = "Column3";
+            Column3.Width = 150;
             // 
-            // label2
+            // Column4
             // 
-            label2.AutoSize = true;
-            label2.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            label2.Location = new Point(143, 16);
-            label2.Name = "label2";
-            label2.Size = new Size(244, 28);
-            label2.TabIndex = 2;
-            label2.Text = "📄 CHI TIẾT ĐƠN HÀNG";
+            Column4.HeaderText = "Tổng tiền";
+            Column4.MinimumWidth = 6;
+            Column4.Name = "Column4";
+            Column4.Width = 110;
             // 
-            // panel3
+            // Column5
             // 
-            panel3.BackColor = Color.FromArgb(248, 246, 240);
-            panel3.Controls.Add(label2);
-            panel3.Location = new Point(0, 0);
-            panel3.Name = "panel3";
-            panel3.Size = new Size(557, 59);
-            panel3.TabIndex = 3;
+            Column5.HeaderText = "Trạng thái";
+            Column5.MinimumWidth = 6;
+            Column5.Name = "Column5";
+            Column5.Width = 110;
             // 
-            // dgvChiTietMon
+            // label3
             // 
-            dgvChiTietMon.BackgroundColor = Color.White;
-            dgvChiTietMon.ColumnHeadersHeightSizeMode = DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            dgvChiTietMon.Location = new Point(3, 57);
-            dgvChiTietMon.Name = "dgvChiTietMon";
-            dgvChiTietMon.RowHeadersWidth = 51;
-            dgvChiTietMon.Size = new Size(551, 238);
-            dgvChiTietMon.TabIndex = 4;
+            label3.AutoSize = true;
+            label3.Font = new Font("Segoe UI", 12F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            label3.Location = new Point(122, 16);
+            label3.Name = "label3";
+            label3.Size = new Size(282, 28);
+            label3.TabIndex = 2;
+            label3.Text = "📋 DANH SÁCH ĐƠN HÀNG";
             // 
             // donhang
             // 
             AutoScaleDimensions = new SizeF(8F, 20F);
             AutoScaleMode = AutoScaleMode.Font;
             BackColor = Color.FromArgb(248, 246, 240);
-            ClientSize = new Size(1588, 953);
+            ClientSize = new Size(1146, 953);
             Controls.Add(tableLayoutPanel1);
             Controls.Add(panel2);
             Controls.Add(panelHeaderDH);
@@ -300,12 +300,12 @@
             panel2.ResumeLayout(false);
             tableLayoutPanel1.ResumeLayout(false);
             panelDanhSachDH.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)dgvChiTietMon).EndInit();
+            panel3.ResumeLayout(false);
+            panel3.PerformLayout();
             panel1.ResumeLayout(false);
             panel1.PerformLayout();
             ((System.ComponentModel.ISupportInitialize)dgvDanhSachDH).EndInit();
-            panel3.ResumeLayout(false);
-            panel3.PerformLayout();
-            ((System.ComponentModel.ISupportInitialize)dgvChiTietMon).EndInit();
             ResumeLayout(false);
         }
 
